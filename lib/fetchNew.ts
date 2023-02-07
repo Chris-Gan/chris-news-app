@@ -67,3 +67,5 @@ const fetchNews = async (
 };
 
 export default fetchNews;
+
+export const dynamic = "force-dynamic";
