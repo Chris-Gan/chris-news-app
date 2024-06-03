@@ -1,27 +1,21 @@
-# Next.js + Tailwind CSS Example
+# News Aggregation Web Application
 
-This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.2)](https://tailwindcss.com/blog/tailwindcss-v3-2) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
+Welcome to the News Aggregation Web Application. This project showcases a modern news aggregation platform built using Next.js version 13, with a focus on enhanced user experience, efficient data handling, and real-time content aggregation.
 
-## Deploy your own
+## Features
 
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example) or preview live with [StackBlitz](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-tailwindcss)
+- **Enhanced User Experience**: Features like server-side rendering and a dynamic theme toggle improve performance and allow for customization.
+- **Efficient Data Handling**: Implemented GraphQL with StepZen for efficient data handling and Media Stack API for news content aggregation.
+- **Modern Technology**: Developed with Next.js version 13, leveraging the latest features to create a robust real-world application.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-tailwindcss&project-name=with-tailwindcss&repository-name=with-tailwindcss)
+## Live Demo
 
-## How to use
+You can access the live version of the News Aggregation Web Application at the following link:
+- [News Aggregation Web Application](https://chris-news-app-chris-gan.vercel.app/)
 
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init), [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/), or [pnpm](https://pnpm.io) to bootstrap the example:
+## Technologies Used
 
-```bash
-npx create-next-app --example with-tailwindcss with-tailwindcss-app
-```
+- **Next.js**: Version 13
+- **GraphQL**: Integrated with StepZen
+- **Media Stack API**: Used for news content aggregation
 
-```bash
-yarn create next-app --example with-tailwindcss with-tailwindcss-app
-```
-
-```bash
-pnpm create next-app --example with-tailwindcss with-tailwindcss-app
-```
-
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
